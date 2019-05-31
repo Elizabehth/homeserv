@@ -1,0 +1,30 @@
+{
+  "name": "homeserv",
+  "version": "0.0.1",
+  "description": "Liz's Home Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Bark honk\" && exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elizabehth/homeserv.git"
+  },
+  "keywords": [
+    "iot",
+    "mqtt",
+    "home",
+    "server",
+    "hub"
+  ],
+  "author": "Elizabeth Clements",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Elizabehth/homeserv/issues"
+  },
+  "homepage": "https://github.com/Elizabehth/homeserv#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mqtt": "^3.0.0"
+  }
+}
